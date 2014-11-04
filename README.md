@@ -1,3 +1,3 @@
-# Node.js Hello World app
+# Das ist meine erste Homepage in der Cloud.
 
-This is a barebones Node.js app using the [Express](http://expressjs.com/) framework.
+Dies ist eine auf einem Bootstrap Beispiel aufgebaute Homepage.
